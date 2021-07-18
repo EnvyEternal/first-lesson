@@ -3,5 +3,5 @@ h1,h2,h3{
     font-weight: normal;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: initial;
-    background-color: rgb(38, 0, 255);
+    background-color: rgba(38, 0, 255, 0.979);
 }
